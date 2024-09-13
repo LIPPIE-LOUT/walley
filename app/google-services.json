@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260929277433",
+    "project_id": "vinn-3b26c",
+    "storage_bucket": "vinn-3b26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260929277433:android:cc7119f75affccbd1a8128",
+        "android_client_info": {
+          "package_name": "com.example.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACasVZLTwv9LWT1MMOzm7RpR62y8Dv3BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
